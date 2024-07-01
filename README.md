@@ -1,16 +1,18 @@
-## Hi there 👋
+## 💫 About Me
 
-<!--
-**Joe-KSa/Joe-KSa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.codewars.com/users/Z33D03">
+    <img src="https://www.codewars.com/users/Z33D03/badges/large" alt="Codewars Badge">
+  </a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Animated GIF](https://i.pinimg.com/originals/73/07/08/73070870226982a0854a75764dfc7e5b.gif)
+
+
+- 🔭 I’m currently working on **#Null**
+- 🌱 I’m currently learning about everything; I'm an eternal learner
+- 👯 I’m looking to collaborate on **#Null**
+- 🤔 I’m looking for help with **#Null**
+- 📫 How to reach me: **#Null**
+- ⚡ Fun fact: We can't recover from this
